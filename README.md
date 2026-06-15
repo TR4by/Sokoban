@@ -9,7 +9,10 @@ The game has 30 hand-crafted levels of increasing difficulty, a level select men
 ## Screenshots
 
 ![Void mechanic](Screenshots/Void_Screenshot.png)
+*Crates pushed into the void become walkable platforms*
+
 ![Level editor](Screenshots/Editor_Screenshot.png)
+*In-game level editor*
 
 ## How to Run
 
