@@ -6,15 +6,11 @@ The player's goal is to push every crate onto its marked spot. Uniquely, in this
 
 The game has 30 hand-crafted levels of increasing difficulty, a level select menu with progress tracking, and a fully functional in-game level editor.
 
----
-
 ## How to Run
 
 1. Download and install [Processing 3](https://processing.org/download).
 2. Open `Sokoban.pde` in Processing.
 3. Press the Run button (or `Ctrl+R`).
-
----
 
 ## Controls
 
@@ -39,8 +35,6 @@ The game has 30 hand-crafted levels of increasing difficulty, a level select men
 - `Left click` - Place selected tile
 - `Right click` - Erase tile
 
----
-
 ## Game Objects
 
 - `0` - Void
@@ -52,13 +46,9 @@ The game has 30 hand-crafted levels of increasing difficulty, a level select men
 - `D` - Crate in void (acts as a platform)
 - `@` - Player
 
----
-
 ## Level Format
 
 Levels are plain text files (`map1.txt` through `map30.txt`) stored in the `data/` folder. Each file is a 15x15 grid of the symbols above. `map0.txt` is reserved for the level editor's output.
-
----
 
 ## Credits
 
