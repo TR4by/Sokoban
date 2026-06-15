@@ -20,6 +20,7 @@ The game has 30 hand-crafted levels of increasing difficulty, a level select men
 
 ## Running online
 You can play it right now by clicking the link below:
+
 https://tr4by.github.io/Sokoban/
 
 ## How to Run Locally
