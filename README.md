@@ -1,5 +1,7 @@
 # Sokoban
 
+[Play it right now!](https://tr4by.github.io/Sokoban/)
+
 A classic Sokoban puzzle game ported to [p5.js](https://p5js.org/). Originally built in Processing 3 as a first-year university project.
 
 The player's goal is to push every crate onto its marked spot. Uniquely, in this version, crates can be shoved into the void to create platforms the player can walk across.
@@ -15,6 +17,10 @@ The game has 30 hand-crafted levels of increasing difficulty, a level select men
 ![Level editor](Screenshots/Editor_Screenshot.png)
 
 *In-game level editor*
+
+## Running online
+You can play it right now by clicking the link below:
+https://tr4by.github.io/Sokoban/)
 
 ## How to Run Locally
 
