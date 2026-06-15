@@ -6,6 +6,11 @@ The player's goal is to push every crate onto its marked spot. Uniquely, in this
 
 The game has 30 hand-crafted levels of increasing difficulty, a level select menu with progress tracking, and a fully functional in-game level editor.
 
+## Screenshots
+
+![Void mechanic](Screenshots/Void_Screenshot.png)
+![Level editor](Screenshots/Editor_Screenshot.png)
+
 ## How to Run
 
 1. Download and install [Processing 3](https://processing.org/download).
